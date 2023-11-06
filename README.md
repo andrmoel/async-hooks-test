@@ -1,6 +1,11 @@
 Reproduces a bug with p-pipe 5.0.0
 https://github.com/sindresorhus/p-limit/issues/72
 
+Test environment:
+* Ubuntu 22.04.3 LTS
+* node 18.18.2
+* yarn 1.22.19
+
 Run:
 1. `yarn install`
 2. `yarn test`
