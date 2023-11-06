@@ -4,8 +4,8 @@
     "lib": [
       "es6"
     ],
-    "module": "commonjs",
-    "moduleResolution": "nodenext",
+    "module": "node16",
+    "moduleResolution": "node16",
     "strict": true,
     "strictNullChecks": true,
     "allowJs": true,
